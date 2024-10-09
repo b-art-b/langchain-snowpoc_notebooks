@@ -1,4 +1,4 @@
-# langchain-snowpoc
+# LangChain in Snowflake Notebooks
 
 > **NOTE**: This is just a PoC, not production-ready and covers just a few use cases.
 
@@ -29,5 +29,5 @@ make all
 
 
 
-> **Note**: This repo is for Medium blog post: TBD
+> **Note**: This repo is for Medium blog post: https://medium.com/@bart.wrobel/langchain-in-snowflake-notebooks-81357ddaa0c5
 
